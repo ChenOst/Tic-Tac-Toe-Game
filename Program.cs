@@ -40,6 +40,7 @@ namespace TicTacToeGame
 
         private static void computerTurn()
         {
+            System.Threading.Thread.Sleep(500);
             turn++;
             computer.strategy(board, turn);
             // After each turn print the board.
@@ -57,6 +58,7 @@ namespace TicTacToeGame
         }
         private static void playerTurn()
         {
+            System.Threading.Thread.Sleep(500);
             turn++;
             player.doYourMove(board);
             // After each turn print the board.
