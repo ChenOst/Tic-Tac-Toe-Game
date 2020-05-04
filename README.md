@@ -20,4 +20,4 @@ Cute and simple Tic Tac Toe console game that is built so that
  Follow the instructions you receive from the computer.
  **And try to have fun!!!**
 
-
+<img src="Images/p1.png" width=400>  <img src="Images/p2.png" width=400>
